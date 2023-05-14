@@ -1,0 +1,172 @@
+Station1,Station2,Distance
+Khapri,New Airport,52.83541910915756
+Khapri,Airport South,53.128611995832635
+Khapri,Jaiprakash Nagar,53.66831409449999
+Khapri,Ujjwal Nagar,53.53437903928736
+Khapri,Chhatrapati Square,53.79215810459574
+Khapri,Ajni,55.05520639875371
+Khapri,Rahate Colony,54.33611221401147
+Khapri,Congress Nagar,55.087526054389194
+Khapri,Shankar Nagar,52.7625795353051
+Khapri,Zero Mile,54.853064093313534
+Khapri,Lokmanya Nagar,46.71949967618194
+Khapri,Bansi Nagar,47.816631116991225
+Khapri,Vasudev Nagar,48.53264345842747
+Khapri,Ajni Square,53.99310516877744
+Khapri,Institute of Engineers,53.74685632674245
+Khapri,Subhash Nagar,50.847720666460006
+Khapri,Jhansi Rani Square,54.80158536915167
+Khapri,Automotive Square,58.86242086212026
+New Airport,Airport South,1.5213809581512925
+New Airport,Jaiprakash Nagar,4.3535162435621
+New Airport,Ujjwal Nagar,3.575994786767425
+New Airport,Chhatrapati Square,5.015528207111112
+New Airport,Ajni,7.291023971303007
+New Airport,Rahate Colony,7.114644241984673
+New Airport,Congress Nagar,7.714586593341248
+New Airport,Shankar Nagar,7.569399456212242
+New Airport,Zero Mile,9.292118434612666
+New Airport,Lokmanya Nagar,7.494559080367967
+New Airport,Bansi Nagar,7.138886673640442
+New Airport,Vasudev Nagar,6.950779145316877
+New Airport,Ajni Square,6.019001793854622
+New Airport,Institute of Engineers,8.132142905370403
+New Airport,Subhash Nagar,6.497466038685759
+New Airport,Jhansi Rani Square,8.693763206865873
+New Airport,Automotive Square,14.517109649285649
+Airport South,Jaiprakash Nagar,2.833026321305305
+Airport South,Ujjwal Nagar,2.054960359413377
+Airport South,Chhatrapati Square,3.4954305347274386
+Airport South,Ajni,5.7736339807635195
+Airport South,Rahate Colony,5.594297175156665
+Airport South,Congress Nagar,6.195322382913973
+Airport South,Shankar Nagar,6.112241089021944
+Airport South,Zero Mile,7.772667795516889
+Airport South,Lokmanya Nagar,7.0516128101386
+Airport South,Bansi Nagar,6.457687286244885
+Airport South,Vasudev Nagar,6.122339191571958
+Airport South,Ajni Square,4.499407112833198
+Airport South,Institute of Engineers,6.630029768530329
+Airport South,Subhash Nagar,5.260759084896108
+Airport South,Jhansi Rani Square,7.173278375853789
+Airport South,Automotive Square,13.009282159788917
+Jaiprakash Nagar,Ujjwal Nagar,0.7788279173941416
+Jaiprakash Nagar,Chhatrapati Square,0.6627473426104266
+Jaiprakash Nagar,Ajni,2.9829173503601973
+Jaiprakash Nagar,Rahate Colony,2.761272936995381
+Jaiprakash Nagar,Congress Nagar,3.388955838009343
+Jaiprakash Nagar,Shankar Nagar,3.4829869448622026
+Jaiprakash Nagar,Zero Mile,4.939998498427378
+Jaiprakash Nagar,Lokmanya Nagar,6.957516064842458
+Jaiprakash Nagar,Bansi Nagar,5.945633340885224
+Jaiprakash Nagar,Vasudev Nagar,5.325144442425311
+Jaiprakash Nagar,Ajni Square,1.6670908507559674
+Jaiprakash Nagar,Institute of Engineers,3.841200120023976
+Jaiprakash Nagar,Subhash Nagar,3.483944284227522
+Jaiprakash Nagar,Jhansi Rani Square,4.3403025267463935
+Jaiprakash Nagar,Automotive Square,10.236937420123773
+Ujjwal Nagar,Chhatrapati Square,1.4415745958377975
+Ujjwal Nagar,Ajni,3.7377635964844935
+Ujjwal Nagar,Rahate Colony,3.5396294073685675
+Ujjwal Nagar,Congress Nagar,4.1519844646650546
+Ujjwal Nagar,Shankar Nagar,4.190898931451594
+Ujjwal Nagar,Zero Mile,5.718720346311185
+Ujjwal Nagar,Lokmanya Nagar,6.89732429313093
+Ujjwal Nagar,Bansi Nagar,5.987102391833146
+Ujjwal Nagar,Vasudev Nagar,5.438573139235361
+Ujjwal Nagar,Ajni Square,2.445918559470243
+Ujjwal Nagar,Institute of Engineers,4.6077009434011345
+Ujjwal Nagar,Subhash Nagar,3.872599599004552
+Ujjwal Nagar,Jhansi Rani Square,5.118451600825111
+Ujjwal Nagar,Automotive Square,10.989162755660976
+Chhatrapati Square,Ajni,2.3524758176273246
+Chhatrapati Square,Rahate Colony,2.0991376873554857
+Chhatrapati Square,Congress Nagar,2.7462987988569685
+Chhatrapati Square,Shankar Nagar,2.9099676173279594
+Chhatrapati Square,Zero Mile,4.2773470756273655
+Chhatrapati Square,Lokmanya Nagar,7.077406582919449
+Chhatrapati Square,Bansi Nagar,5.991664875967042
+Chhatrapati Square,Vasudev Nagar,5.318569276145108
+Chhatrapati Square,Ajni Square,1.0043441023795454
+Chhatrapati Square,Institute of Engineers,3.19394293791594
+Chhatrapati Square,Subhash Nagar,3.266243682207248
+Chhatrapati Square,Jhansi Rani Square,3.678292318652841
+Chhatrapati Square,Automotive Square,9.599805310334933
+Ajni,Rahate Colony,0.7213061134134195
+Ajni,Congress Nagar,0.44273422420677744
+Ajni,Shankar Nagar,2.4243094291046288
+Ajni,Zero Mile,2.198002195490485
+Ajni,Lokmanya Nagar,8.599044751446057
+Ajni,Bansi Nagar,7.377824311652978
+Ajni,Vasudev Nagar,6.612291122121486
+Ajni,Ajni Square,1.453941560484127
+Ajni,Institute of Engineers,1.807713238583417
+Ajni,Subhash Nagar,4.237020161311063
+Ajni,Jhansi Rani Square,1.5959184432947802
+Ajni,Automotive Square,7.254133452508939
+Rahate Colony,Congress Nagar,0.8430293534410891
+Rahate Colony,Shankar Nagar,1.7336543170820993
+Rahate Colony,Zero Mile,2.180191057962587
+Rahate Colony,Lokmanya Nagar,7.914223280102376
+Rahate Colony,Bansi Nagar,6.683130439325359
+Rahate Colony,Vasudev Nagar,5.912743702761673
+Rahate Colony,Ajni Square,1.0972971053402314
+Rahate Colony,Institute of Engineers,1.3220583838623552
+Rahate Colony,Subhash Nagar,3.531542077313589
+Rahate Colony,Jhansi Rani Square,1.579163835917024
+Rahate Colony,Automotive Square,7.576638434204792
+Congress Nagar,Shankar Nagar,2.3520591150568184
+Congress Nagar,Zero Mile,1.764306223466606
+Congress Nagar,Lokmanya Nagar,8.738959830643592
+Congress Nagar,Bansi Nagar,7.499737301486213
+Congress Nagar,Vasudev Nagar,6.72442718289531
+Congress Nagar,Ajni Square,1.8011008162830797
+Congress Nagar,Institute of Engineers,1.5671533962634072
+Congress Nagar,Subhash Nagar,4.339299084752115
+Congress Nagar,Jhansi Rani Square,1.1710436749384925
+Congress Nagar,Automotive Square,6.853856641378286
+Shankar Nagar,Zero Mile,2.4917894720490184
+Shankar Nagar,Lokmanya Nagar,6.657357299853619
+Shankar Nagar,Bansi Nagar,5.385498716538472
+Shankar Nagar,Vasudev Nagar,4.598041678149317
+Shankar Nagar,Ajni Square,2.141326525391425
+Shankar Nagar,Institute of Engineers,1.0791630521309374
+Shankar Nagar,Subhash Nagar,2.2847115406921703
+Shankar Nagar,Jhansi Rani Square,2.1747201320894445
+Shankar Nagar,Automotive Square,8.035598010202623
+Zero Mile,Lokmanya Nagar,9.118988416299814
+Zero Mile,Bansi Nagar,7.842558971699292
+Zero Mile,Vasudev Nagar,7.056651143458579
+Zero Mile,Ajni Square,3.2732657134227385
+Zero Mile,Institute of Engineers,1.437189123716264
+Zero Mile,Subhash Nagar,4.77618244809614
+Zero Mile,Jhansi Rani Square,0.6131505701797489
+Zero Mile,Automotive Square,5.594980602959504
+Lokmanya Nagar,Bansi Nagar,1.2772334282672084
+Lokmanya Nagar,Vasudev Nagar,2.0623634559198787
+Lokmanya Nagar,Ajni Square,7.368178695523848
+Lokmanya Nagar,Institute of Engineers,7.736316062571895
+Lokmanya Nagar,Subhash Nagar,4.416508400453074
+Lokmanya Nagar,Jhansi Rani Square,8.830531462581817
+Lokmanya Nagar,Automotive Square,14.468734414676574
+Bansi Nagar,Vasudev Nagar,0.7874649544203137
+Bansi Nagar,Ajni Square,6.195683195844246
+Bansi Nagar,Institute of Engineers,6.4639236235674264
+Bansi Nagar,Subhash Nagar,3.163499335177516
+Bansi Nagar,Jhansi Rani Square,7.55977703159082
+Bansi Nagar,Automotive Square,13.199941172640395
+Vasudev Nagar,Ajni Square,5.462330013164172
+Vasudev Nagar,Institute of Engineers,5.676461748586086
+Vasudev Nagar,Subhash Nagar,2.385279922031325
+Vasudev Nagar,Jhansi Rani Square,6.772365383414161
+Vasudev Nagar,Automotive Square,12.432348097441315
+Ajni Square,Institute of Engineers,2.229898089056993
+Ajni Square,Subhash Nagar,3.1787956125498518
+Ajni Square,Jhansi Rani Square,2.675885017632455
+Ajni Square,Automotive Square,8.642174952111317
+Institute of Engineers,Subhash Nagar,3.3568590607203443
+Institute of Engineers,Jhansi Rani Square,1.099989855230897
+Institute of Engineers,Automotive Square,7.0235512472272275
+Subhash Nagar,Jhansi Rani Square,4.436538370730064
+Subhash Nagar,Automotive Square,10.28755447927432
+Jhansi Rani Square,Automotive Square,6.08597886495108
